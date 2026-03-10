@@ -11,7 +11,7 @@
      </div>
      <nav class="wiki-nav">
        <a href="#">主页</a>
-       <a href="./level.html">层级</a>
+       <a href="./level.md">层级</a>
        <a href="#">实体</a>
        <a href="#">物品</a>
        <a href="#">社区</a>
