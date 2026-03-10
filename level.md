@@ -23,4 +23,7 @@
 | **Level 2** | [管道噩梦](level-2.html) |  | 🔴 危险 |
 | **Level 3** | [发电站](level-3.html) |  | ⚫ 极危险 |
 | **Level 4** | [废弃办公室](level-4.html) |  | 🟢 较安全 |
+| **Level 5** | [恐怖旅馆](level-4.html) |  | 🟢 较安全 |
+| **Level 6** | [熄灯](level-4.html) |  | 🟢 较安全 |
+| **Level 7** | [深海恐惧症](level-4.html) |  | 🟢 较安全 |
 
