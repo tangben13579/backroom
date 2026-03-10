@@ -13,8 +13,8 @@
 | **层级定位** | 后室第12层 |
 
 ## 描述
-<img src="./images/OGLevel0.jpg" alt="Level 0的第一张照片" style="float:right; width:300px; margin-left:15px; border:1px solid #ccc;">
-<p style="float:right; clear:right; margin:5px 0 15px 0; font-style:italic;">［Level 0的第一张照片。］</p>
+<img src="./images level 11/1.jpg" alt="一位流浪者站在Level 391土坡上里摄下的一幅照片" style="float:right; width:300px; margin-left:15px; border:1px solid #ccc;">
+<p style="float:right; clear:right; margin:5px 0 15px 0; font-style:italic;">［一位流浪者站在Level 391土坡上里摄下的一幅照片］</p>
 
 Level 391是后室的第392层。是后室中极具迷惑性的层级之一。
 
