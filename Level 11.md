@@ -1,8 +1,9 @@
 <a href="README.md">主页</a>
        <a href="./level.md">层级</a>
-       <a href="#">实体</a>
+       <a href="Entity.md">实体</a>
        <a href="#">物品</a>
-       <a href="#">社区</a>
+       <a href="QQ.jpeg">QQ社区</a>
+       <a href="DY.jpeg">抖音号</a>
 # Level 11 - "梦核之境"
 
 ## 基础信息
