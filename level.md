@@ -26,4 +26,7 @@
 | **Level 5** | [恐怖旅馆](level-4.html) | 未完成 | 🟢 较安全 |
 | **Level 6** | [熄灯](level-4.html) | 未完成 | 🟢 较安全 |
 | **Level 7** | [深海恐惧症](level-4.html) | 未完成 | 🟢 较安全 |
-
+| **Level 8** | [熄灯](level-4.html) | 未完成 | 🟢 较安全 |
+| **Level 9** | [熄灯](level-4.html) | 未完成 | 🟢 较安全 |
+| **Level 10** | [熄灯](level-4.html) | 未完成 | 🟢 较安全 |
+| **Level 11** | [熄灯](level-4.html) | 未完成 | 🟢 较安全 |
