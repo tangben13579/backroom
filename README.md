@@ -4,11 +4,6 @@
  <html lang="zh-CN">
  <head>
    <meta charset="UTF-8">
-   <title>Level 0 - 后室 Wiki</title>
-   <link rel="stylesheet" href="style.css">
- </head>
- <body>
- <div class="wiki-container">
    <!-- 顶部导航 -->
    <header class="wiki-header">
      <div class="wiki-title">
