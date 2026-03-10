@@ -16,7 +16,7 @@
 | **层级定位** | 后室第1层（初始层） |
 
 ## 描述
-<img src="./OGLevel0.jpg" alt="Level 0的第一张照片" style="float:right; max-width:300px; margin-left:15px;">
+<img src=".images/OGLevel0.jpg" alt="Level 0的第一张照片" style="float:right; max-width:300px; margin-left:15px;">
 *Level 0的第一张照片*
 
 Level 0 是一处非线性空间，外观类似于一家零售店的储藏后室。与它此前被确认的形式相似，Level 0 中的所有房间都在外观上呈现出具有共同表面特征的统一制式模样，例如泛黄的墙纸、潮湿的地毯和以不一致方式安装的荧光灯具。然而，本层中不存在两个完全相同的房间。
