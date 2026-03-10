@@ -9,8 +9,8 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | **生存难度** | 等级 4 |
-| **安全状态** | 安全、稳定、极少量实体 |
-| **层级定位** | 后室第1层（初始层） |
+| **安全状态** | 不安全、不稳定、大量实体 |
+| **层级定位** | 后室第12层 |
 
 ## 描述
 <img src="./images/OGLevel0.jpg" alt="Level 0的第一张照片" style="float:right; width:300px; margin-left:15px; border:1px solid #ccc;">
