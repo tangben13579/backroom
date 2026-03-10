@@ -24,7 +24,7 @@ Backrooms 后室 —— 迷失在现实褶皱中的无尽迷宫
      <nav class="wiki-nav">
        <a href="README.md">主页</a>
        <a href="./level.md">层级</a>
-       <a href="#">实体</a>
+       <a href="Entity.md">实体</a>
        <a href="#">物品</a>
        <a href="QQ.jpeg">QQ社区</a>
      </nav>
