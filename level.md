@@ -18,7 +18,7 @@
 
 | 层级编号 | 名称 | 描述 | 安全等级 |
 | :--- | :--- | :--- | :--- |
-| **Level 0** | <a href="./level 0.md">[教学关卡]</a> |  |  |
+| **Level 0** | <a href="Level 0.md">教学关卡</a> |  |  |
 | **Level 1** | [宜居地带](level-1.html) |  | 🟡 一般 |
 | **Level 2** | [管道噩梦](level-2.html) |  | 🔴 危险 |
 | **Level 3** | [发电站](level-3.html) |  | ⚫ 极危险 |
