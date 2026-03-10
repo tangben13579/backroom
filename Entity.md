@@ -3,6 +3,7 @@
        <a href="Entity.md">实体</a>
        <a href="#">物品</a>
        <a href="QQ.jpeg">QQ社区</a>
+       <a href="DY.jpeg">抖音号</a>
        
 # 后室 - 实体列表
 
