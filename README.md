@@ -10,7 +10,7 @@
        <h1>Backrooms Wiki 后室维基</h1>
      </div>
      <nav class="wiki-nav">
-       <a href="#">主页</a>
+       <a href="README.md">主页</a>
        <a href="./level.md">层级</a>
        <a href="#">实体</a>
        <a href="#">物品</a>
