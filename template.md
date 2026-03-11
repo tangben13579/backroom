@@ -44,7 +44,7 @@
 ```
 # 原创层级文档标准格式
 
-># Level ? - "name"
+>markdown# Level ? - "name"
 
 ## 基础信息
 | 项目 | 内容 |
