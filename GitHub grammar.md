@@ -61,8 +61,8 @@
  
 7. 图片
  
-源码： \!\[图片](地址) 
-效果：图片
+源码： \<img src="./images level 0/OGLevel0.jpg">
+效果：<img src="./images level 0/OGLevel0.jpg">
  
  
  
