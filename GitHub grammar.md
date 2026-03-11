@@ -68,7 +68,7 @@
  
  # 6. 链接
  
-源码：\<a href="DY.jpeg">抖音号</a>
+源码：\<a href="放置链接">名称</a>
 
 效果： <a href="DY.jpeg">抖音号</a>
  
@@ -76,7 +76,7 @@
  
 # 7. 图片
  
-源码： \<img src="./images level 0/OGLevel0.jpg">
+源码： \<img src="放置文件图片或者链接">
 
 效果：<img src="./images level 0/OGLevel0.jpg">
  
