@@ -1,3 +1,10 @@
+ <a href="README.md">主页</a>
+       <a href="./level.md">层级</a>
+       <a href="Entity.md">实体</a>
+       <a href="#">物品</a>
+       <a href="QQ.jpeg">QQ社区</a>
+       <a href="DY.jpeg">抖音号</a>
+       
 后室 Wiki - 帮助中心
  
 欢迎来到后室 Wiki 帮助中心！这里将为你提供从入门到创作的完整指南，帮助你更好地浏览、编辑和贡献内容。
