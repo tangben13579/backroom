@@ -47,5 +47,6 @@ Backrooms 后室 —— 迷失在现实褶皱中的无尽迷宫
          <li><a href="#">最近更改</a></li>
          <li><a href="#">帮助</a></li>
          <li><a href="GitHub grammar.md">GitHub语法</a></li>
+         <li><a href="template.md">模板</a></li>
        </ul>
      </aside>
