@@ -5,9 +5,11 @@
        <a href="QQ.jpeg">QQ社区</a>
        <a href="DY.jpeg">抖音号</a>
 
+# 实体 : C-01 - 凝视菌
+
 | 项目 | 内容 |
 | :--- | :--- |
-| **实体编号** | C-01 - 凝视菌 |
+| **实体编号** | C-01 |
 | **栖息地** | Level 391的草地、废弃游乐场及郊区庭院，偏好潮湿、有童年记忆关联的区域 |
 
 <img src="./Entity/C-01.jpeg" alt="一位流浪者站在Level 11土坡上里摄下的一幅照片" style="float:right; width:300px; margin-left:15px; border:1px solid #ccc;">
