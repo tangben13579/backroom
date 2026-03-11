@@ -13,7 +13,7 @@
 | **实体编号** | C-02 |
 | **栖息地** | Level 11的居民区、空荡教室及废弃游乐场，常出现在有大量童年场景投射的区域 |
 
-<img src="./Entity/C-02.jpeg" alt="一位流浪者在Level 11摄下的一幅花面人照片" style="float:right; width:300px; margin-left:15px; border:1px solid #ccc;">
+<img src="./Entity/C-02.jpeg" alt="一位流浪者在Level 11摄下的一幅花面人照片" style="float:right; width:150px; margin-left:15px; border:1px solid #ccc;">
 <p style="float:right; clear:right; margin:5px 0 15px 0; font-style:italic;">［一位流浪者在Level 11摄下的一幅花面人照片］</p>
 
 ## 描述：
