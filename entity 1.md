@@ -1,3 +1,10 @@
+ <a href="README.md">主页</a>
+       <a href="./level.md">层级</a>
+       <a href="Entity.md">实体</a>
+       <a href="#">物品</a>
+       <a href="QQ.jpeg">QQ社区</a>
+       <a href="DY.jpeg">抖音号</a>
+       
 实体编号：C-01「凝视菌」
 
 栖息地：Level 391的草地、废弃游乐场及郊区庭院，偏好潮湿、有童年记忆关联的区域。
