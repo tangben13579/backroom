@@ -13,6 +13,9 @@
 | **实体编号** | C-02 |
 | **栖息地** | Level 11的居民区、空荡教室及废弃游乐场，常出现在有大量童年场景投射的区域 |
 
+<img src="./Entity/C-02.jpeg" alt="一位流浪者在Level 11摄下的一幅花面人照片" style="float:right; width:300px; margin-left:15px; border:1px solid #ccc;">
+<p style="float:right; clear:right; margin:5px 0 15px 0; font-style:italic;">［一位流浪者在Level 11摄下的一幅花面人照片］</p>
+
 ## 描述：
 「花面人」是一种类人实体，头部被向日葵花盘取代，花盘中央是一只空洞的眼窝。它们是层级中最具迷惑性的实体，常以“童年玩伴”的形象出现，诱导流浪者放松警惕。
 
