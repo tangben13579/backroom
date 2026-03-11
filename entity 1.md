@@ -13,7 +13,7 @@
 | **栖息地** | Level 391的草地、废弃游乐场及郊区庭院，偏好潮湿、有童年记忆关联的区域 |
 
 <img src="./Entity/C-01.jpeg" alt="一位流浪者站在Level 11土坡上里摄下的一幅照片" style="float:right; width:300px; margin-left:15px; border:1px solid #ccc;">
-<p style="float:right; clear:right; margin:5px 0 15px 0; font-style:italic;">［一位流浪者站在Level 11土坡上里摄下的一幅照片］</p>
+<p style="float:right; clear:right; margin:5px 0 15px 0; font-style:italic;">［一位流浪者Level 11摄下的一幅凝视菌照片］</p>
 
 描述：
 「凝视菌」是Level 391中最常见的实体之一，常以巨型毒蘑菇形态出现，菌盖中央嵌有一只人类眼球，会持续注视周围的流浪者。它们是层级“真实性”拷问的具象化符号，也是梦核美学中不安感的核心来源。
