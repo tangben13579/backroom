@@ -33,7 +33,7 @@
 | **Level 8** | [岩洞系统](level-4.html) | 未完成 | 🟢 较安全 |
 | **Level 9** | [郊区](level-4.html) | 未完成 | 🟢 较安全 |
 | **Level 10** | [丰裕](level-4.html) | 未完成 | 🟢 较安全 |
-| **Level 11** | <a href="Level 11.md">夢核之境</a> | 未完成 | 🟣 不安全且不稳定 |
+| **Level 11** | <a href="Level 11.md">夢核之境</a> | 未完成 | 高危异常 |
 | **Level 12** | <a href="">no</a> | 未完成 | ? |
 | **Level 13** | <a href="">no</a> | 未完成 | ? |
 | **Level 14** | <a href="">no</a> | 未完成 | ? |
