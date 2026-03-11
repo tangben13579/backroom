@@ -23,16 +23,16 @@
 | 层级编号 | 名称 | 描述 | 安全等级 |
 | :--- | :--- | :--- | :--- |
 | **Level 0** | <a href="Level 0.md">教学关卡</a> | 许多人所遭遇的第一层 | 温和安全 |
-| **Level 1** | [宜居地带](level-1.html) | 未完成 | 🟡 一般 |
-| **Level 2** | [管道噩梦](level-2.html) | 未完成 | 🔴 危险 |
-| **Level 3** | [发电站](level-3.html) | 未完成 | ⚫ 极危险 |
-| **Level 4** | [废弃办公室](level-4.html) | 未完成 | 🟢 较安全 |
-| **Level 5** | [恐怖旅馆](level-4.html) | 未完成 | 🟢 较安全 |
-| **Level 6** | [熄灯](level-4.html) | 未完成 | 🟢 较安全 |
-| **Level 7** | [深海恐惧症](level-4.html) | 未完成 | 🟢 较安全 |
-| **Level 8** | [岩洞系统](level-4.html) | 未完成 | 🟢 较安全 |
-| **Level 9** | [郊区](level-4.html) | 未完成 | 🟢 较安全 |
-| **Level 10** | [丰裕](level-4.html) | 未完成 | 🟢 较安全 |
+| **Level 1** | <a href="">no</a> | 未完成 | ? |
+| **Level 2** | <a href="">no</a> | 未完成 | ? |
+| **Level 3** | <a href="">no</a> | 未完成 | ? |
+| **Level 4** | <a href="">no</a> | 未完成 | ? |
+| **Level 5** | <a href="">no</a> | 未完成 | ? |
+| **Level 6** | <a href="">no</a> | 未完成 | ? |
+| **Level 7** | <a href="">no</a> | 未完成 | ? |
+| **Level 8** | <a href="">no</a> | 未完成 | ? |
+| **Level 9** | <a href="">no</a> | 未完成 | ? |
+| **Level 10** | <a href="">no</a> | 未完成 | ? |
 | **Level 11** | <a href="Level 11.md">夢核之境</a> | 未完成 | 高危异常 |
 | **Level 12** | <a href="">no</a> | 未完成 | ? |
 | **Level 13** | <a href="">no</a> | 未完成 | ? |
