@@ -23,7 +23,7 @@
 | :--- | :--- | :--- | :--- |
 | **Entity 0** | no | 未完成 | ? |
 | **Entity 1** | <a href="entity 1.md">C-01 - 凝视菌</a> | 它们是层级“真实性”拷问的具象化符号 | 规避 |
-| **Entity 2** | <a href="entity 2.md">C-02 - 花面人</a> | 未完成 | 规避 |
+| **Entity 2** | <a href="entity 2.md">C-02 - 花面人</a> | 它们是层级中最具迷惑性的实体 | 规避 |
 | **Entity 3** | no | 未完成 | ? |
 | **Entity 4** | no | 未完成 |  ? |
 | **Entity 5** | no | 未完成 |  ? |
