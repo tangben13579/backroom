@@ -38,7 +38,7 @@ Backrooms 后室 —— 迷失在现实褶皱中的无尽迷宫
          <li><a href="#">Level 0</a></li>
          <li><a href="#">Level 1</a></li>
          <li><a href="#">Level 2</a></li>
-         <li><a href="#">实体列表</a></li>
+         <li><a href="Entity.md">实体列表</a></li>
          <li><a href="#">物品列表</a></li>
        </ul>
        <h3>工具</h3>
